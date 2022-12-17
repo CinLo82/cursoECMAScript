@@ -11,8 +11,9 @@
     "url": "git+https://github.com/CinLo82/cursoECMAScript.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "CinLo <cinlos3382@gmail.com>",
+  "license": "Mit",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/CinLo82/cursoECMAScript/issues"
   },
