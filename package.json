@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/CinLo82/cursoECMAScript/issues"
   },
-  "homepage": "https://github.com/CinLo82/cursoECMAScript#readme"
+  "homepage": "https://github.com/CinLo82/cursoECMAScript#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  }
 }
